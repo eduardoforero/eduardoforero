@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center"> Hola 👋 Soy <a href="https://eduforero.dev/" target="_blank">Eduardo Forero</a></h1>
+  <h3 align="center">Diseñador web con Wordpress aprendiendo Desarrollo web con ReactJS</h3>
+</div>
+<img src="https://eduforero.dev/assets-dev/eduardo-forero-GitHub-banner.png" /> 
 
 <!--
 **eduardoforero/eduardoforero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
